@@ -1,0 +1,24 @@
+[BACKUP]
+settings = true
+zip-enabled = false
+folder = 
+
+[FTP]
+ftp-enabled = false
+ftp-host = null
+ftp-port = null
+ftp-username = null
+ftp-password = null
+
+[CRASH/RESTARTER]
+crash-enabled = true
+server-check = 1
+server-port = 43594
+path-to-run = C:\Users\Hack3r\Desktop\sourcev2\run.bat
+
+[TIMER]
+custom-timer-enabled = false
+custom-timer = 86400
+
+[EOF]
+

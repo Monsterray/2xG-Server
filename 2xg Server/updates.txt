@@ -1,0 +1,44 @@
+Version 0.5.29
+- Made Multi-Tab look better
+- Added an admin tab only admins can see
+- Made server folder MUCH smaller by deleting all class files and compiling to
+-- get rid of unused and forgotten files
+
+Version 0.5.28
+- Fixed spelling of Achievement in client tab
+~ Found that title doesn't update until reloging
+- Made changing title chat message more comprehensible by adding Loyalty Points
+-- at the end
+- Made Lock XP two words
+- Changed PointHandler to Point Display
+- Removed cti123 from owners
+
+
+Version 0.5.27
+- FIXED farming should make you lose water and all patches should be dynamic-ed
+-- Also fixed it always saying you need a seed dibber even if you did have one
+-- Also put all the farming patches back
+
+Version 0.5.26
+- Added more debugging statements
+~~~~ADDED My own custom dynamic Clue Scroll system~~~~
+-- All easy, medium, and hard scrolls and caskets
+-- Should be a random amount of clues to go through
+-- Rewards and everything
+-- Sadly there is only 2 clues right now
+- Started working on the guide for patches
+
+Version 0.5.23
+- Fixed Staff tab, should completely work
+- Added beret color changer to loyalty shop
+- Fixed multi-tab now refreshes as you click stuff
+- Fixed wrong name prefix from showing up in the multi-tab
+
+Version 0.5.21
+- Fixed double error code for dropping un-drop-able items
+- Fixed sof from displaying error codes for people to report
+- Fixed money pouch to display in Billions
+- Added skill menus to skills
+- Changed Combat level max is now 140
+- Fixed donate things to actually take you to the donate page
+- Fixed When you equip the scythe you get the right attack tab

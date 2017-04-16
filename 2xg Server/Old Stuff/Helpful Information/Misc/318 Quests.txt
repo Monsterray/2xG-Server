@@ -1,0 +1,373 @@
+*
+* Lost City
+*
+Head into Lumbridge swamp. Go west until you find a Warrior, a Ranger, a Mage, and a Monk walking around a campfire. Talk to the warrior and ask him what he is doing. Oddly, convincing him to start the quest is one of the hardest parts of the quest. When he refuses to tell you, talk to him in a way that sounds like you are challenging his authority. Then he eventually tells you what his problem is. Here is the order of words you have to say to him, so you can start the quest:
+
+Why are you camped out here?
+What makes you think it's out here?
+If it's hidden how are you planning to find it?
+Looks like you don't know either.
+
+The leprechaun's tree
+
+Look for a tree, on the West of the camp. You may find the tree easily, because it is the only tree which has a message saying "Chop tree" instead of "Chop down tree". Click on the "chop" option and a leprechaun, named Shamus, will jump out (Note: on RuneScape Classic the tree has a "search" option, instead of chop.) Ask Shamus how to get to Zanaris and he will tell you that you need a Dramen staff. To get this, you will need to chop down a tree inside of the Entrana Dungeon, and at the end of the conversation, he will offer to teleport you to Port Sarim docks so its a good idea to bring all the items you will need with you. Unfortunately, you are not allowed to take armour, weapons,Combat Auras (such as Knock-Out), and some magical items (such as the Explorer's Ring of any level) to Entrana, but you can take:
+
+Entrana dungeon map.
+
+    Items to make better armour, such as needle, thread, and dragonhides or leather
+    A friend to hold food and to stand between you and the Spirit in the actual fight.
+    If you bring a knife, logs, and a bow string you can make a bow. Arrows are also allowed on the island. Also there is a hiding spot which is helpful to low level players.
+    Runes (but no staff)
+    Amulet of your choice (an amulet of glory or gnome amulet is recommended, but an amulet of power will do just fine)
+    Potions
+    Food
+    Teleports (strongly recommended)
+    Anti-poison totem, which has defence stats similar to a Rune kiteshield
+    A set of H.A.M. robes will provide a little defence if you cannot make your own armour, or a pair of monk robes. (Zamorak Robes and robes bought from Canifis are also allowed)
+    Priest gown top and bottom are also allowed on the isle and provide a small prayer bonus which is very useful
+    The godbooks are also allowed on the island
+    If you are not confident, you can bring a Ring of life.
+    The Proto-Tool can NOT be taken in, even if unformed. 
+
+Take your choice of items to Port Sarim, talk to the monks on the dock, and travel to Entrana. Do not make your items yet; You can be caught and sent back to Port Sarim, thus forcing you to obtain materials again. When you get off the boat at Entrana, run to the east, then north (and cross the bridge), and head west. Do not go westward from the boat and then north, because if you do, then you will see the cave but be unable to walk/run to the cave). Going first east, then north, and then west, you will find a monk next to a cave entrance. Note that as soon as you go down into this cave there is no exit except via a door that takes you to Draynor Village, behind the bank near the obelisk. Once you're ready, talk to the monk and enter the dungeon. Upon entering the dungeon, your prayer will be reduced to 10-40 points (now is a good time to use prayer potions if you brought them). Now you can make your equipment without being spotted.
+
+Travel around the cave until you see some level 25 Zombies. Kill these until you get a bronze hatchet or Iron hatchet. Pick it up. (It is also possible to get Steel Hatchet from the Greater Demons)
+
+Keep travelling around the cave, until you see some Greater Demons and a small cave off to the side. Run past the demons into this cave and cut the Dramen Tree with the hatchet you got from the Zombies. A Level 101 tree spirit will appear. It is possible to attempt to melee the Dramen Tree Spirit, but it hits hard (110) and absorbs
+Safespot for fighting the Spirit
+most melee attacks. At the safe spot you can spot trap her and attack her while quickly running back to safe spot to avoid damage and she will barely hit you. The Tree Spirit is susceptible to magic, and even at lower magic levels, fire strike will often hit 80, making magic an easy route to defeating the spirit. Lower level runes can easily be bought at Port Sarim on the way to Entrana. Since the September autocasting update, you can autocast without a staff. And if you are using melee you will almost certainly need lobsters or better to fight the tree spirit.
+
+
+The shed leading to Zanaris.
+Once you've defeated the Tree Spirit, cut the tree again to get a Dramen branch. Cut several if you like so you make a few staves for your bank. Note: You can always come back and cut more pieces of the Dramen tree, you won't have to fight the guardian again, however, you still need to kill the zombies for a hatchet.
+
+It is probably smart to save time to cut an extra branch not to make into a Dramen Staff and to use that to make the cinnamon for the Sir Amik Varse part of the Recipe of Disaster Quest. You won't be able to make it into to cinnamon though until you are doing the quest but it will save you time when you are doing Recipe for Disaster.
+
+Use a knife with the Dramen branch to get a Dramen Staff. To do this, you need at least 31 crafting. Note: You do not have to use the knife with the Dramen branch right there, you may go to a bank to retrieve your knife and use it with the Dramen branch.
+
+Open the magical door and you will teleport to Draynor Village . Teleport to Lumbridge and head for the swamp. Wield your Dramen staff, and enter the small hut in the swamp west of the low-level mine and you'll find yourself in Zanaris. Congratulations, quest complete! Sidenote: You can just click "use" on the fairy ring once you are at Zanaris to be teleported back outside the hut of Zanaris. 
+
+
+
+*
+* Desert Treasure 
+*
+Talk to the archealogist in bedabin camp
+
+Talk to Eblis, who can be found in (or near, he occasionally wanders outside) the house directly east of bar, past the general store. Ask him if he knows about the four diamonds. He will tell you that he needs several items to create mirrors that can tell you where the diamonds are located. Bring him the items listed above.
+
+Note: The steel bars, magic logs, molten glass, bones, and ashes may be noted. The charcoal must be unnoted.
+
+Eblis and the enchanted mirrors.
+Use the items on Eblis, who will tell you to meet him a little distance southeast of the camp (it will appear on your minimap as a small brown ring). Go to a small hill to the east to find Eblis standing between 6 mirrors. Talk to Eblis. If you like, look into each of the mirrors, and you will see six locations across RuneScape. Two of them, the pyramid and the Bandit Camp, are not related to the diamonds' location. The other four locations show where you can find the diamonds. Those locations are Canifis; an icy location near Trollheim; a smokey well near Pollnivneach; and a calm, serene area with benches and trees that is west of Fishing Guild and South of Baxtorian Falls.
+
+Note: Should you keep any of the diamonds in your inventory, there is a chance you'll be attacked by a level 95 stranger who attacks with a dragon dagger (p++). The Stranger should be no threat to you if you are level 90+, but it is still safer to keep the diamonds in the bank.
+
+You must now obtain each of these four diamonds, which will each by guarded by a difficult boss. The diamonds can be obtained in any order. 
+
+
+
+
+
+
+
+*
+* Monkey Madness
+*
+
+    Ape Atoll is a very dangerous area to all players. At any point when traveling to the island, bring the following items:
+        Antipoison. Several creatures on Ape Atoll, some of which can be difficult to spot, are highly poisonous, and are aggressive regardless of combat level.
+        Food. As mentioned above, high-healing food is important. There is a garden west of the prison which contains a banana tree, but watch out for the Monkey's Aunt.
+        At least one prayer potion. There is an altar on the island that can be used to recharge prayer as necessary, though it is guarded by powerful Monkey Guards and a small, extremely poisonous spider. Nonetheless there are points in the quest in which prayer potions are very helpful, if not necessary.
+        An emergency teleport just in case, such as the ectophial or a teletab. In addition, teleports to locations such as the Grand Tree (or the locations of gnome gliders or spirit trees) are helpful.
+        Replaceable items, as death is often a single misclick away.
+        A familiar may also be helpful. 
+    World 23 is the unofficial world for this quest. If you're having trouble you may be able to find someone to help you.
+    Be sure to use the Protect from Range prayer when indicated in the below map, or you WILL take massive damage from archer monkeys, possibly poisoning or killing you.
+    During this quest if you wish to restock on food or other supplies it is suggested that you wear a Ring of Duelling during your journey on Ape Atoll, this is because of the bank at the Duel Arena and the gnome glider fairly close by. Also, an Altar is located near the Bank at the Duel Arena, which can be used to recharge your Prayer points.
+    Remember that while a player is in human form, every creature on Ape Atoll will be aggressive. This is perhaps most annoying not with the high-level creatures, but with the common low-level creatures. For example, the level 1 spiders found all over RuneScape are also found here, and will now attack and interrupt players trying to perform mundane tasks such as searching crates or working through dialogues. Patience is key in this quest.
+    It is a very good idea, once you get to that part of the quest, to always have a Monkey greegree, or any greegree, as when equipped, NOTHING will attack you on the island, even creatures that aren't monkeys. 
+
+This quest is divided into four chapters.
+Chapter 1 - Monkey MadnessEdit
+
+Inventory: Prayer-Boosting Equipment, 12-16 doses of Anti-poison, 12-16 doses of Prayer potion, 12 pieces of food (Monkfish or better), One-click teleport (Lumbridge or Varrock teletab), and optionally 200k coins (if players want Glough to solve the puzzle instead of them). (Throughout the quest, always restock potions and food when possible.) Initially, players can pick up these things from the bank just after talking to the king at the start.
+
+Talk to King Narnode. He tells the player to investigate Glough's old shipyard and gives the player a Gnome royal seal.
+
+Ascend the tree (visiting the bank, if required) and take a Gnome glider to Karamja (Gandius on the pilot's map). Go to the shipyard, going north following the coast, and talk with G.L.O. Caranock, a gnome who is located in the building in the southern area of the shipyard, by the fence. He acts suspiciously. Players must have the seal to enter the shipyard.
+
+Return via glider to the king. The king gives the player Narnode's orders to talk to Daero.
+
+Talk to Daero, the new head tree guardian, on the first floor of the Grand Tree near Blurberry's Bar (level 1, east side). Make sure you ask him all the questions about the mission, the 10th Squad, and Caranock, in order, before finally selecting the 'leave...' option. He blindfolds players and takes them to an underground hangar, where they must solve a Reinitialization puzzle.
+
+Talk to Daero and begin the puzzle by clicking on the panel to the south-east. (See the solution to the right.) Avoid logging out or teleporting, as the puzzle resets, forcing the player to start again. (If necessary, see the puzzle box guide.)
+Monkey madness puzzle.png
+Note: If you're having trouble with seeing all the pieces, try changing the display mode under graphics options. Also with the graphics being messed up, if you look in a crate beside the reinitialization puzzle, you can find a copy of the completed puzzle that also has the glitches so you will be able to see the completed puzzle with the bugged pieces you see in-game.
+
+To easily solve the puzzle start by solving the top most row, then the next row, then the next row, then you want to solve the square area to the left by rotating the puzzle pieces counter-clockwise, then complete the rest of the puzzle.
+
+    Alternatively, players can pay 200,000 coins to Glough, He is located south-east of the ramp in a tree house near the Grand Tree. This option leaves the puzzle with a single piece out of place. This is EXTREMELY helpful as the graphics on the puzzle box were scrambled with the Z-Buffering engine update.
+    Players can use the Teleportation device at the southern end of the hangar to return to the Gnome Stronghold. 
+
+Talk to Daero, then talk to Waydar. Waydar reminds players to stock up on food and anti-poison, then flies them to Crash Island.
+
+On Crash Island, ask Lumdo to sail to Ape Atoll. He refuses, so talk to Waydar, then talk to Lumdo again. After a short cutscene, Lumdo sails the player to Ape Atoll.
+A map of Ape Atoll with quest NPCs and routes. Familiarise yourself with it before continuing. (click to enlarge)
+Chapter 2 - Welcome to the Jungle!Edit
+
+Monkey Madness: Chapter 2.
+Getting the Amulet ComponentsEdit
+
+The recommended escape route.
+The lock should be picked right now, when the guard is facing away.
+
+Once on the Atoll, run north-west until reaching an east-west ridge. Run west along the southern side of the ridge until entering a north-south "valley" on the western side of the atoll. Be wary of aggressive level 24 Jungle snakes, level 38 Scorpions, and level 42 Jungle spiders, all of which are poisonous and attack players regardless of level(another easy way is to just travel along the coast westward till you reach the fishing spot(sharks) and then head north into the valley).
+
+Activate Protect from Missiles upon entering the valley and run north. Players will take a great deal of damage from multiple volleys of arrows, possibly poisoning them, if protect from missiles is not activated. Eventually players lose consciousness.
+the Quest Diary now reads:
+I have been caught and jailed ## times.
+
+(where ## is the number of times jailed)
+
+Players awake in a cell guarded by gorillas Trefaji and Aberab. If players go within one square of the jail bars when either of the prison guards are near, they will punch the player, dealing up to 200 life points damage. Note that this does not count as melee damage, and therefore is not blocked by Protect from Melee.
+
+The gorillas patrol their route through the corridor twice, then switch off. Take the time to see their pattern. As soon as the patrolling gorilla turns to walk back up the path towards the other gorilla, pick the lock and run behind him. Be careful not to run ahead of him. As soon as he is in the guard room to the north-west, run out of the jail (before they switch off) and hide in the tall grass along the northern wall of the jail.
+
+    Hint: If players struggle to get out of the jail, they can have a friend (who has already completed the quest) equip a monkey greegree and block both gorillas in the guard room. It only stops the gorillas for a small amount of time, though. They reset their positions if they are blocked for too long, so act quickly! The friend can also block them in the south-west area where they turn around. Again, it only works momentarily. 
+
+Do not talk to any monkeys (except for Hafuba). Doing so returns players to the jail.
+
+Find Karam, the ninja-like assassin of the 10th squad. Go east of the jail to the jungle grass between the temple and the jail. Players may see only his shadow, but can click on it to talk to him. Karam is not very informative, but he lets players know he is ready to help them.
+
+Find Sergeant Garkor, the 10th squad leader. To reach him, players must:
+
+    Travel south, against the western wall of the temple, while staying in the grass. The archer monkeys do not fire at players hiding in the grass. However, there is an open stretch of ground at the south-western corner of the temple, so players must switch on Protect from Ranged past the temple archway.
+    Travel east along the southern wall of the temple. King Awowogei's throne room is south of the temple. Go south along its eastern wall to Garkor and speak to him. 
+
+Garkor tells the player to find Zooknock, the 10th squad mage, to have the player turned into a monkey.
+the Quest Diary now reads:
+I must see the squad mage, Zooknock, about obtaining a monkey disguise
+
+
+Now, players must reach the building with the open U shape. It is east of the general store and west of the mini summoning obelisk. To enter, it is imperative that players use the southern door. From Garkor, run diagonally south west from the north face of the throne room.
+
+Open the door and go inside. When inside this house, players must stay on the dark brown ground around the perimeter of the room or be sent back to jail. If players have difficulty telling the difference between the light and dark ground (due to shadows and the subtle difference in colour), the minimum graphics setting has a much more defined difference in colour. Inside the house, there is a level 1 spider that is extremely poisonous. Ignore it or kill it quickly, but do not let the combat bring you onto the light ground. If players need some food, the south-western crates contain bananas, which heal 20 life points. If the sleeping monkey guard catches players, he summons his comrades to send them back to prison.
+
+Step east and north, staying on the dark brown ground, to search the stacked crates on the light brown ground. The crate is full of Monkey dentures, so players can take more than one set.
+Player falling when going into the basement
+
+    Search the south-easternmost crate to crawl down into the basement. Players may fall and take up to 300 life points damage. Players may search the crates here, too, to find bananas.
+    Search the crates in the north-west part of this basement to find one that is full of M'amulet moulds. Players may take more than one. 
+
+Teleport out or, if you have enough supplies, it's best to go back the way you came. If you brought a Ring Of Duelling with you, you can teleport to the Duel Arena, where you may restore health, prayer points, use the bank, and use the nearby gnome glider to return to Ape Atoll.
+Location of crate with monkey amulet moulds
+
+Once you have obtained all the required components to make the Monkeyspeak Amulet, talk to Garkor, and he will give you permission to ask Zooknock to make you a Monkeyspeak amulet.
+Making the Monkeyspeak AmuletEdit
+
+Zooknock - the 10th Squad's wizard.
+Inventory: One-click teleport (in case of emergency, and a teleport out at finish), Monkey dentures, M'amulet mould, and a Gold bar, food (Monkfish or better), 1 or 2 prayer potions (with monkrobes and holy symbol the tunnels takes about 350 prayer points) and about 5 energy potions (depends on your weight and agility), 1 super antipoison. If players reach Zooknock with multiple sets of Monkeyspeak amulet components, he still only helps players make one amulet, so there's no reason to bring more than one set of components. Make sure you have all of the items for the enchanted bar, otherwise you will have to run through the Ape Atoll Dungeon more times than is necessary.
+
+Note: Players are strongly recommended to use the spa facilities at Oo'glog for the salt-water spring to boost run energy. The Ape Atoll Dungeon is a long tunnel. If using Protect from Melee, wear armour to extend prayer, such as Monk's robes and a Holy or Unholy symbol (it is also possible to use a mace for pray bonus). Even if you've completed the quest and using a greegree, it is still tough to get through, as you will probably take 250+ damage total from traps and falling rocks, so 3-4 sharks will help you get through alive.
+
+Note 2: The creatures in the dungeon have high Strength and can hit quite accurately, so do not underestimate them.
+
+Go to the Grand Tree and speak with Daero on the first level to return to the hangar. Speak to Waydar to return to Crash Island. Speak to Lumdo to return to Ape Atoll.
+
+Travel west from the boat to the dungeon entrance. (Players should familiarise themselves with the map.) Turn off auto-retaliate and turn on Protect from Melee. Enter the dungeon.
+
+Run east, then turn north. The passage winds for quite a distance. The roof of the passage keeps collapsing on the player's head and doing damage. Do not wait under the bridges for the rocks to fall; it wastes too much prayer. There are also monsters and traps, all of which can poison players. Keep life points, prayer, and run energy as high as possible without wasting food or potions.
+
+Players may also rest at certain points in between zombie monkeys to regenerate energy.
+
+Zooknock is at the end of the tunnel. Speak to him. After a long conversation (in which Zooknock wonders where he's heard Waydar's name before), use the gold bar, monkey dentures, and m'amulet mould on him. He gives the player an Enchanted bar and returns the M'amulet mould.
+
+Teleport out and restock. (a good way to restock while staying reasonably close to Ape Atoll is teleporting with a ring of duelling to mobilising armies to bank, then using the spirit tree to Gnome Stronghold.
+
+Inventory: One-click teleport (Lumbridge or Varrock teletab, not runes), Enchanted bar, and M'amulet mould. A Ball of wool is optional, as players can string the amulet at a bank.
+
+Return to Ape Atoll and run north up the valley to be placed in the jail cell again. Remember to use Protect from Missiles. Escape the cell as before.
+
+Travel east towards the temple. The door is along its western wall. Use Protect from Melee and enter the temple.
+
+Descend the trapdoor along the eastern wall of the temple. The Ape guards will block the way to the trapdoor. If so, players can make the guards chase them until a path is clear. Be warned: these guards are high levelled and may surround you, preventing non-magical escape. An easy way to get to the trap door is to go upstairs in the temple where there are very few guards. There will be a ladder leading back downstairs right next to the trapdoor.
+
+In the basement are two flaming pits and lots of zombie monkeys, so DO NOT turn off protect from melee. Use the enchanted bar with either pit to make the amulet. Teleport out.
+
+Use a Ball of wool on the unstrung amulet to complete the Monkeyspeak amulet. You now have the ability to speak with monkeys! Do not do so yet, as without a greegree, you will be thrown into jail.
+Making the GreegreeEdit
+
+An evil conspirator.
+Inventory: 12-16 doses of Anti-poison, 12-16 doses of Prayer potion, 12 pieces of food (Swordfish or better), One-click teleport (Lumbridge or Varrock teletab), 6 Bananas, and the Monkeyspeak amulet.
+
+(After completing the quest you may make other greegrees by getting another talisman off the monkey child or buying it from the magic store and killing a different type of monkey and taking them both to Zooknook.) Return to Ape Atoll to be placed in the jail cell again. Escape. This time, travel west to the banana garden after reaching safety of the jungle grass. The banana garden is between the two buildings west of the jail. There is an entrance corridor at its north-east corner.
+
+The Monkey's Aunt patrols a loop. Only enter the banana garden when the
+The Monkey Aunt's house and garden a moment before the player should enter the garden
+monkey's aunt exits the southern gate. When she returns (or is about to return) to the garden through the western gate, run into the corridor to the north-east so that the aunt doesn't see you. If she does, Ninja Monkeys will come to imprison you. HINT: If she has already noticed you and the ninjas have appeared, you can quickly log off to avoid being imprisoned.
+
+Wear the Monkeyspeak amulet and talk to the monkey child. Players need to talk to the child several times before telling him that they are his uncle. The monkey child tells the player that he is supposed to collect 20 bananas in exchange for a toy. Players offer to collect the 20 bananas if they can "borrow" the toy. When players give the child the 6 bananas they have, it is enough, because the child cannot count.
+
+Go into the corridor and wait for the aunt to make another patrol through the garden, then return to the child and ask for the toy. If he cries, wait for him to stop (or log out and log back in). The toy is a Monkey talisman. If players lose the monkey talisman, they can receive it from him again.
+
+Teleport out and restock for the dungeon.
+
+Inventory: 1 (or more) dose of Anti-poison, 1-2 doses of Prayer potion, 12 (or more) doses of Energy potion (if not using Salt-water spring), one-click teleport (Lumbridge or Varrock teletab), Monkey talisman, and Monkey bones (if you get bones from a monkey on Karamja, it will save time later, as you need a "Monkey Greegree" not a ninja/gorilla/zombie one) or a monkey corpse (must be from a Karamjan monkey). (Note: Bringing more than one set of monkey bones is recommended, as you may accidentally bury the bones.) The rest should be food (sharks or better). At this point, players may also choose to take a second set of Monkeyspeak amulet components (dentures, gold bar, mould) and the Monkeyspeak amulet to use the Drop trick on Zooknock. Remember to use protect from melee and wear prayer-extending gear.
+
+Return to Ape Atoll and travel through the dungeon to Zooknock.
+
+Give the monkey bones (or corpse) and talisman to Zooknock. Do not bury the bones. Zooknock enchants the talisman and returns it (now a Monkey greegree) with the warning that its magic is limited. It does not work anywhere but on Ape Atoll, and the player cannot attack anything while using it.
+
+A cutscene will play, in which Gnome Liaison Officer Caranock and Flight Officer Waydar will be seen conspiring in the banana plantation of the island. They will attempt to kill the 10th Squad so that King Narnode will invade the human kingdoms.
+
+If they brought the components, players can now use the drop trick on Zooknock for the Monkeyspeak amulet. Drop the amulet and begin by talking to him and telling him it's been lost. Give him the components. He returns the mould and another enchanted bar. Pick up the original amulet. Teleport out.
+Chapter 3 - The Monkey AllianceEdit
+
+A player changing into a Zombie Monkey.
+
+To save time, you can collect the monkey from the Ardougne Zoo before going back to the island then simply talk to the king again immediately after getting the task to get a monkey from the Ardougne Zoo. To do this, you need to talk with the Monkey minder, then equip the Monkeyspeak amulet and the Monkey greegree, talk with the Monkey minder again. After a short and funny dialogue he will put you 'back' in the cage, where you comically convince another monkey to hop into your backpack. Then you should change back into a human again (by unequiping the Monkey greegree). He will let you out then. After this you must walk to to the Grand Tree (if you use any method of teleport - including any Spirit Tree - the monkey will disappear!). Lastly go to Ape Atoll and King Awowogei. During this walk the monkey will keep talking and making funny references while standing still.
+
+Inventory: 4 doses of Anti-poison, 4 pieces of food (Swordfish or better), 2 One-click teleports (at least one of which to Ardougne), Monkeyspeak amulet, and Monkey greegree. The anti-poison and food probably are not necessary, but players should have them if they need them. Players may also bring along the enchanted bar and M'amulet mould, if they used the drop trick on Zooknock.
+
+Return to Ape Atoll. Wear the amulet and wield the greegree to become a monkey. If your greegree is a zombie one make sure you change it into a regular one. In this form, players are not approached or attacked by any NPCs. They may still be damaged by traps, poison, or the Ape Atoll Agility Course, but are safe from most other threats.
+
+Travel north-west as usual, but this time players need not use prayer and can pass through the town gate unharmed. Go to Garkor (south of the temple) and speak to him. He wants the player to pretend to be a Karamjan envoy seeking an alliance with the king.
+
+Speak to an Elder Guard outside the king's throne room to seek an audience with the king. The guard sends the player to ask Kruk, the captain of the guard. Kruk is on a hill east of the town gate.
+
+Travel west of the town gate, climb the hill from the south-west, go to the highest point on that hill, climb the ladder and walk across the bridge and down the other side. (Players do not need to take the agility arena shortcut.)
+
+Speak to Kruk. He takes the player to King Awowogei. Speak to King Awowogei and ask for an alliance. He asks the player to rescue a monkey from the Ardougne Zoo.
+the Quest Diary now reads:
+To demonstrate my worthiness, I have been asked to rescue one of the Karamjan monkeys from the zoo in Ardougne
+
+
+Players must ask the guard directly south of the throne to let them leave the throne room. (the other Guard, who is north-west of the exit guard and south-west of the throne, only says "Get out of my way")
+
+Players may choose this time to craft an additional Monkeyspeak amulet, if they brought an enchanted bar and M'amulet mould with them. If so, go to the temple basement and craft the amulet, continuing to wield the greegree.
+
+If you brought runes to teleport you need to go to a safe place, unequip the greegree, and teleport to Ardougne. You cannot use normal teleport spells while holding a greegree, but tele-tabs and wielded items with teleports like the Ardougne Cloak will still work. Use any method you can to get to Ardougne. WARNING: When you teleport, the greegree will unequip, if it does, and if your inventory is full, the greegree will be dropped where you land from the teleport. You should remember to wield all possible items and pick up the greegree before you proceed.
+
+Enter the Ardougne Zoo and wield the greegree again. Notice that the magic works someplace other than Ape Atoll, despite what Zooknock said.
+
+Speak to the Monkey Minder, who puts the player in the monkey cage. Speak to any monkey to take it into inventory.
+
+Unequip the greegree and speak to the Monkey Minder. The Monkey Minder ignores any players who don't unequip the greegree first. The Monkey Minder frees the player from the cage.
+
+    Note: if you have any bananas in your inventory, the monkey in your inventory will eat them one by one. 
+
+You must now return to Ape Atoll with the monkey in your backpack. Do not teleport or use a seed pod with the monkey in inventory or he will run off. Walk or run to the Grand Tree. Any method of teleportation other than the fairy rings, including the spirit tree, results in the monkey escaping the player's inventory. You may use the Fairy Ring network though and if you have started Fairy Tale III - Battle at Orks Drift you can dial to fairy ring C-L-R which will take you to Ape Atoll and if you have a Ninja Monkey Greegree equipped you may scurry down the hollow log to the obstacle course. By doing two obstacles of the Ape Atoll Agility course (swinging rope & climb down tropical tree), you can get to the south of the village and quickly travel east to the palace.
+
+    Otherwise, return to Ape Atoll via Gnome Glider (contact Daero, the black hooded gnome at the 1st floor[help] bar) 
+
+Caranock, Waydar and King Awowogei.
+
+Equip the greegree and walk to King Awowogei. Speak to the Elder guard and ask for an audience with King Awowogei, then speak to the king. The monkey is automatically freed from the player's inventory.
+
+Exit the throne room and speak to Garkor. A cutscene will play, that was overheard by Waymottin and Bunkwicket. Waydar and Caranock have convinced Awowogei to kill the 10th Squad so that King Narnode will invade the human kingdom. They also mention Glough's "pet".
+the Quest Diary now reads:
+Together we should be able to face whatever we find.
+
+Awowogei:
+
+I have rescued one of the monkeys from the zoo in Ardougne and have shown the evidence to Awowogei. I appear to have earnt Awowogei's favour.
+
+
+Chapter 4 - The Final BattleEdit
+
+The arena where the player teleports to fight the Jungle demon. The player, the gnomes, and the demon appear on the outer bridges.
+
+Speak to Garkor again. He tells players to prepare for the final battle. Players must not equip the 10th squad sigil he gives them until you are ready. Doing so teleports them to the final battle. When the sigil is equipped, it will start to shake within five seconds. Within another five seconds, the player will be teleported.
+the Quest Diary now reads:
+Together we should be able to face whatever we find.
+
+I have been warned not to wear the sigil until I am ready.
+
+Awowogei:
+
+I have rescued one of the monkeys from the zoo in Ardougne and have shown the evidence to Awowogei. I appear to have earnt Awowogei's favour.
+
+
+If players lose the sigil, they can talk to Garkor. He sends them to the dungeon to talk to Waymottin, one of Gnome sappers with Zooknock. Players can use the drop trick on Waymottin to obtain multiple sigils, doing away with potentially multiple journeys to the dungeon.
+
+Unequip the greegree and teleport to a bank if you need to. Stock up with your chosen combat gear. It does not matter where you operate the sigil, so feel free to teleport off Ape Atoll. Once you are ready, wear and operate the sigil.
+The Jungle demon
+
+The Jungle demon is a formidable foe, hitting up to 320. The demon uses magic if players are out of range of its melee. If players get too close, then it attacks with both magic and melee. Its melee can hit over a square like Halberds. The surviving 10th squad helps with the fight, although they typically hit less than 10 life points damage. Also, if you can do the give thanks emote, the demon cannot attack you. While doing this, a glitch may occur where you can fight while doing the emote.
+
+Before the Fight:
+
+    Players should make sure their life points and prayer points are at their maximum. Using the +2 prayer bonus at the Monastery can be beneficial.
+    It is Highly recommended players preform the drop trick and acquire more than one 10th squad sigil as without another, it is virtually impossible to return to a gravestone upon death during the battle.
+    Players should make sure their inventory matches the combat style they are going to use. Include a one-click teleport for an emergency and a dose or two of anti-poison.
+    While fighting, players should closely monitor their life points and make sure to keep them as high as possible without wasting food. Dropping below 320 makes players vulnerable to dying with a single hit.
+    To begin the battle, activate Protect from Magic (as the magic attacks of the demon are quite powerful) and wear the 10th squad sigil. Be aware that the sigil is worn in the neck slot, so players need to equip whatever amulet or symbol they want after arriving at the battle. After 10 seconds, the player will teleport to the battle (you don't need to be in Ape Toll to use the teleport). 
+
+The Easiest Method:
+
+    Letting the 10th squad do most of the killing is the easiest method, but takes a considerable amount of time. Just make sure not to let them kill the demon on their own, as the demon will regenerate if you do not help fight it.
+    Where to stand while the gnomes attack the demon.
+    There is a border that goes around the combat platform. To the west there is a bridge that leads to this border. The demon does not attack players, with either melee or magic, if they are on this border. Please note that the demon will still be able to attack you with magic if you stand on the bridge leading to the border, and if Auto Retaliate is on, the character will run to the demon and will be vulnerable to both of its attack styles. (stay always AT THE WALL so the demon will not be able to reach you even with magic, and walk a little to south, because the gnomes only stay on the south-west part of the map)
+    Angle the camera correctly to see the demon's life points. When the gnomes have almost killed the demon, drink a super attack and super strength potion, and run in to finish him off, using all available special attacks.
+    Simply letting the gnomes kill the demon does not work because it can heal itself.
+    Wear any armour, preferably the highest dragonhide possible.
+    The best weapon for this method is a Dragon Dagger. Make sure the special attack is on and auto-retaliate is off before teleporting.
+    A weapon other than the Dragon Dagger also works. For example, Ranged Pures can use Diamond bolts (e) or Dragon bolts (e).
+    When you get teleported, the demon is a little far from you, that gives time to look around the map using the square hole in the middle of the arena to slow the demon (This forces him to walk around it using a somewhat slow animation. This should not be attempted without Protect from Magic active.)
+    When you are teleported, you cannot be attacked with melee by the demon. So, another method is to wear magic resistant armour or protect from magic and stand still while ranging or maging the demon. No food will be required, but 2-3 prayer potions are necessary to avoid running out of prayer. 
+
+Another Easy Method (the Cannon Method):
+
+    For this method you need a Dwarf multicannon and around 60 cannonballs (it can be killed with less but its better to bring a lot if your range level is low), armour with melee defence (rune works and is cheap), as well as high healing food and prayer restore potions. (This can work for people with low range levels eg. 20)
+    Make sure you have auto-retaliate turned off and turn on protect from magic. Go to the west next to the bridge, set your up cannon and load the cannonballs. Once your cannon is firing away cross the bridge to the border and wait for the demon to be killed. It can be killed in around 5 good shots and shouldn't take long. 
+
+Ranged combat:
+
+    Wear armour, such as dragonhide, which gives the best ranged attack bonus.
+    Wear a Holy or Unholy symbol, instead of a range-boosting amulet, to increase the time the player can use Protect from Magic or Melee. Players are advised that waiting for the Gnomes to Red bar the demon will take longer, it would be more wise to attack as well to speed it up. A close eye should be kept on their prayer points so that they do not run out.
+    To kill this demon easily, players should be at least Level 61 Ranged (to enable use of a Rune crossbow), although it is not very difficult for a player with 40 Ranged if using the method described above, and is possible, although very time consuming for pures. Use Mithril or better bolts. Emerald bolts (e) are effective for poisoning the demon, and Diamond bolts (e) are good for penetrating its defences. Zanik's crossbow can also be used as an alternative for players that do not have 61 Ranged.
+    The gnomes assassinating the Demon. A few cannot be seen.
+    Include 1-8 doses of Prayer potion (depending of the player's ranged and prayer levels) in inventory.
+    Use the safespots on the bridge and border to prevent the demon from using melee and Protect from Magic to take little to no damage. 
+
+Melee combat (not recommended):
+
+    Wear rune or better armour, and use Protect from Magic. Warning: Players with level 60 defence wearing Full Rune set easily takes 250 or more damage per hit, so watch your lifepoints if using melee.
+    Wield the strongest weapon possible. Darklight's special attack may be useful for lowering the stats of the demon, but neither silverlight nor darklight are strong enough to be effective at dealing damage unless you have no access to rune or dragon weaponry.
+    Wear a Holy or Unholy symbol, instead of a melee-boosting amulet, to make Protect from Magic prayer last longer if you are unsure of your prayer points and potions. (For their bonuses, they make good respective defensive and offensive neckwear)
+    Using Protect from Magic is essential.
+    Include 3-15 doses of Prayer potion (depending on the player's Strength and Attack level) and as much food (sharks or better) as possible in inventory. 
+
+Magic combat:
+A safespot for a mage/archer. With protection prayers, you will take no damage from here. The Demon is already dead in the image.
+
+    The Magic method isn't a recommended strategy to defeat the Jungle Demon; unless you have a decent Magic and Defence level of around 50+. With these stats, Mystic Robes (Elemental Armour is also a safe option if you can't afford the Mystic Robes, however a high magic level is strongly recommended for this replacement) and Protect from Magic on while using the safe spot, the Jungle Demon's Magic attack will barely be able to harm you. A decent amount of spell casts (around 150 to be safe) are needed however as the Demon has a high magic resistance.
+    Wear a Broodoo shield.
+    Wear a Holy or Unholy symbol, instead of a magic-boosting amulet, to make Protect from Magic or Melee last longer. 
+
+Hybrid Method (Melee/Mage):
+
+    Have a Dragon Longsword as your weapon.
+    Wear Rune armor and a your best summoning helm (if summoning), along with a defender or toktz-ket-xil.
+    Keep your best mage armour in your inventory, preferably combat robes from fist of guthix (only 2 pieces required) and a fire staff. Keep an attack potion, strength potion and defence potion and about 20 sharks or monkfish in your inventory as well. And about 100 blood/death/chaos runes and 100 air runes.
+    An Explorer's ring would be very helpful
+    Strategy: Use Magic first from the safe border, then at approximately half of your food used, switch to melee. Have Protects on at all times, and during the melee portion, use all available Specials. If needed, return to the safespot to use magic or to wait, then finish him with melee. 
+
+If you die you should choose to keep 10th squad sigil, so you can teleport back to demon and pick up your items.
+
+Once the Demon is dead, talk to Garkor, then to Zooknock. Zooknock offers to teleport the player out of the arena.
+Bonzara teleporting a player.
+
+    If players accept, the teleport is to the jungle on Ape Atoll, so be sure to have the anti-poison recommended previously.
+    If players decline the offer and stay, they are free to explore. However Zooknock leaves, meaning that the other gnomes are the player's teleport out. 
+
+        Players may walk along the edge of the arena to go down trap doors they can find. At the bottom level are lots of Banana trees and the base of the statue.
+        In the base of the statue is a rack which players can enter and speak to Bonzara, an ancient monkey who hints at a possible sequel. He offers to teleport the player out of the arena at the end of the conversation. However, the teleport puts players in the jungle on Ape Atoll, so be sure to have the anti-poison recommended previously. 
+
+Speak to King Narnode in the Grand Tree to finish the quest.
+
+Speak to Daero after the quest to get an experience reward. In the dialogue, it's referenced as the 10th squad training programme.
+
+    Players have a choice as to what experience they want. The experience for the first two skills is 35,000 points and for the second two, 20,000 points. Defence and Attack are one set of two skills. Strength and Constitution are the other.
+    Pure players should be careful when speaking to him after the quest, by *not* choosing any of the programme rewards. Even when you choose the Strength and Stamina option, you will still receive Defence experience which could potentially ruin your pure. It is possible to talk to Daero to travel back to the Crash Island without getting experience. 

@@ -1,0 +1,176 @@
+/*Start List*\
+/*Main*\
+Castle Wars:		2379 9489
+Castle Wars2:		2422 9525
+Ice Lair:			2867 9955
+Slayer Tower:		3429 3538
+Brimhaven Dungeon:	2710 9466
+Ice Path:			2856 3812
+Gnome Agility:		2480 3437
+Pyramid Plunder Room:	3281 2765
+Duel Arena:		3345 3251
+KBD Cave:			2717 9808
+Rouges' Den:		3044 4973
+Water Fall:		2534,3511
+Wildi(Back):		3100,3957
+Varrock Bank (East):	3250,3423
+Varrock:			3210,3424
+Falador:			2964,3378
+Lumbridge:		3222,3218
+Camelot:			2757,3477
+Ardougne (East):		2662,3305
+Ardougne (West):		2529,3307
+Training Grounds:		2516,3369
+Gnome Stronghold:		2461,3443
+Al Kharid:			3293,3174
+Shantay's Pass:		3304,3116
+Kalphite Lair:		3226,3107
+Pyramid:			3233,2902
+Pollnivneach:		3359,2910
+Menaphos/Sophanem:	3274,2784
+Yanille:			2606,3093
+Gul'Tanoth:		2516,3044
+Tutorial Island:		3094,3107
+Barbarian Village:		3082,3420
+Entrana:			2834,3335
+Coal Trucks:		2582,3481
+Goblin Village:		2956,3506
+Druids' Circle:		2926,3482
+Burthorpe:		2926,3559
+White Mountain:		2848,3498
+Catherby			2813,3447
+Seers' village:		2708,3492
+Fishing Guild		2603,3414
+Barbarian Agility:		2541,3546
+Prifddinas:		2242,3278
+Elf camp (Tirannwn):	2197,3252
+Isafdar (Tirannwn):		2241,3238
+Duel Arena:		3360,3213
+Desert Mining Camp:	3286,3023
+Bedabin Camp:		3171,3026
+Bandit Camp:		3176,2987
+Sophanem:		3305,2755
+Ruins of Uzer:		3490,3090
+Mort'ton:			3489,3288
+Canifis:			3506,3496
+Port Phasmatys:		3687,3502
+Fenkenstrain's Castle:  	3550,3548
+Dig Site:		  	3354,3402
+Exam Centre:  		3354,3344
+Edgeville:  		3093,3493
+Crafting Guild:		2933,3285
+Port Sarim:  		3023,3208
+Rimmington:  		2957,3214
+Draynor Village:  		3093,3244
+Fight Arena:  		2585,3150
+Gnome Village:  		2525,3167
+Port Khazard:  		2665,3161
+Monastery:  		3051,3490
+Karamja:  		2948,3147
+Crandor:  		2851,3238
+Underground Pass:		2337,9798
+Underwater:		2676,3008
+Karamja (Members):  	2815,3182
+Grave Island:  		3504,3575
+HAM Camp:  		3165,9629
+Mage Arena:		3107,3937
+Ape Atoll:		2755,2784
+Jungle Demon:		2703,9178
+Wilderness Agility:		3003,3934
+Keldagram:		2937,9999
+Karamja Agility:		2761,9557
+Metal Dragon Dungeon:	2713,9564
+Treasure Pyramid:		3233,9315
+Gnome Hanger:		2390,9886
+Fishing Platform:		2782,3273
+TzHaar:			2480,5175
+Essence Mine:		2911,4832
+Shadow Dungeon:		2738,5081
+Barrows (Top):		3564,3288
+Barrows Tunnel:		3568,9695
+Barrows Chest:		3551,9694
+Blue Dragons:		2910,9801
+Black Demons:		2860 9775
+Hell Hounds:		2867,9844
+Black Dragons:		2829,9826
+Bob's Island:		2525,4776
+Distant Kingdom (Alive):	2576,4655
+Distant Kingdom (Dead):	2803,4723
+Trawler Boat:		2013,4820
+Sunk Trawler:		1951,4825
+Trawler Boat (Empty):	1886,4830
+Draynor (Glitched):		2130,4913
+Games Room:		2196,4961
+Gas Hole:			2464,4782
+Edge of Maze:		2885,4550
+Center of Maze:		2912,4576
+Falador Mine:		3038,9800
+Chaos Druids':		2932,9848
+Karamja Lessers:		2835,9562
+Christmas Workshop:	2007,4431
+Recipe for Disaster:	1865,5330
+Glider Puzzle:		2650,4508
+Secret Island:		2152,5095
+Abyss:			3029,4834
+Canifis Passage:		3424,9891
+Ecto-Plasm Floor:		3681,9889
+Grand Tree(Under):		2470,9899
+I'bans Trap Drop:		2319,9804
+Draynor Manor(Under):	3177,9753
+Tutorial Island(Mining):	3079,9505
+Tutorial Island(Combat):	3110,9512
+Volcano:			2861,3165
+Volcano(Under):		2863,9570
+Dagganoth Cave:		2446,10147
+Fight Pits:		2395,5154
+Edgeville(Under):		3132,9909
+Ancients Altar:		3233,9313
+Camelot(Flax):		2744,3444
+Dagganoth(Mother):	2516,4646
+Camelot Castle:		2758 3495
+Dramen Tree:		2861 9736
+Glory Fountain:		2918 9895
+Elemental Dungeon:		2715,9889
+Blurite:			3007,9550
+Kharazi:			2822,2911
+Stonehenge:		2926,3482
+Keldagrim:		2937,9999
+Keldagrim(Agility):		2761,9557
+Miscellania:		2512,3860
+Slayer Tower:		3428,3535
+Wildi(Palace):		3288,3886
+Shilo Village:		2827,2995
+Party Room:		2739,3472
+God Wars:		2859 3725
+/*End Main*\
+
+/*Guilds*\
+Crafting Guild:		2933,3289
+Fishing Guild:		2611,3393
+Heroes' Guild:		2902,3510
+Mining Guild:		3016,3339
+Ranging Guild:		2657,3439
+/*End Guilds*\
+
+/*Altars*\
+Air Altar:			2845 4832
+Body Altar:		2527 4833
+Cosmic Altar:		2162 4833
+Chaos Altar:		2269 4843
+Death Altar:		2207 4836
+Earth Altar:		2660 4839
+Fire Altar:		2584 4836
+Law Altar:		2464 4834
+Mind Altar:		2796 4818
+Nature Altar:		2398 4841
+Water Altar:		2713 4836
+/*End Altars*\
+
+/*Randoms*\
+Quiz Show:		1952 4768
+Trawler:			2013 4820
+Trawler(Sunk):		1951 4825
+Trawler(Empty:		1886 4830
+Mime Stage:		2008 4762
+/*End Randoms*\
+/*End List*\

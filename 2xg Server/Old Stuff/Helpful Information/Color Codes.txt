@@ -1,0 +1,38 @@
+@ Colour Codes
+@red@ - RED
+@blu@ - BLUE
+@gre@ - GREEN
+@yel@ - YELLOW
+@or1@ - LIGHT ORANGE
+@or2@ - MEDIUM COLOURD ORANGE
+@or3@ - DARK ORANGE
+@str@ - STRIPE THROUGH TEXT
+@mag@ - PINK
+@bla@ - BLACK
+@whi@ - WHITE
+and somtimes you have to type it like this.
+@red@@red@ - RED
+@blu@@blu@ - BLUE
+@gre@@gre@ - GREEN
+@yel@@yel@ - YELLOW
+@or1@@or1@ - LIGHT ORANGE
+@or2@@or2@ - MEDIUM COLOURD ORANGE
+@or3@@or3@ - DARK ORANGE
+@str@@str@ - STRIPE THROUGH TEXT
+@mag@@mag@ - PINK
+@bla@@bla@ - BLACK
+@whi@@whi@ - WHITE
+
+And also HEX commands:
+::yell <f><col=hexcodehere> (text goes here)
+And shadow hex command
+::yell <f><col=hexcodehere><shad=000000> (text here)
+HEX Colour codes:
+Blue: 255
+Purple: 20451204
+Green: 255125000
+Black: 330000
+Orange: 616582400
+Yellow: 200000000
+Red: 800000000
+White: 99999999

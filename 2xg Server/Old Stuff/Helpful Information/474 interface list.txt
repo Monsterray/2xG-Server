@@ -1,0 +1,625 @@
+~ By Jackasaur of rune-server.org ~
+0- eggs
+1- bags
+2- moving question mark background, blank square in center; (X) top right
+3- glass jug
+4- (tab)? time left/water collected (works along side 3?)
+5- green and red squares
+6- brimhaven agility ticket exchange
+7- black screen, white text top center
+8- map of dragontooth island
+9- rune draw
+10- windspeed
+11- bank of runescape - deposit box
+12- bank of runescape
+13- enter bank pin 
+14- bank pin settings
+15- blank?
+16- blank?
+17- blank?
+18- blank?
+19- blank?
+20- blank?
+21- blank?
+22- blank?
+23- blank?
+24- barrows killcount
+25- which is the next shape in the above sequence (barrows)
+26- book, 29 lines in total (title in the center)
+27- book, 29 lines in total (Says "First Page" small near the (X); might link to first page of the book?)
+28- blast furnace bar stock
+29- blast furnace plan
+30- blast furnace temperature gauge
+31- select game (burthorpe game room)
+32- draughts (your turn) (burthorpe game room)
+33- draughts options (burthorpe game room)
+34- draughts rank (burthorpe game room)
+35- draughts (their turn) (burthorpe game room)
+36- runelink (your turn) (burthorpe game room)
+37- runelink options (burthorpe game room)
+38- runelink rank (burthorpe game room)
+39- runelink (their turn) (burthorpe game room)
+40- runesquares (your turn) (burthorpe game room)
+41- runesquares options (burthorpe game room)
+42- runesquares rank (burthorpe game room)
+43- runesquares (their turn) (burthorpe game room)
+44- runeversi (your turn) (burthorpe game room)
+45- runeversi options (burthorpe game room)
+46- runeversi rank (burthorpe game room)
+47- runeversi (their turn) (burthorpe game room)
+48- spinning clock; options to turn clockwise and counter clockwise
+49- classic book, 11 lines each page (22 lines total) book title in center on brown background.
+50- brooch
+51- choose your path (from temple to hollows)
+52- What sort of canoe would you like to make?
+53- pick canoe destination
+54- castlewars catapault contols (castlewars)
+55- (chatbox) total wins this season (castlewars)
+56- blank?
+57- waiting for players to join the other team (castlewars)
+58- castlewars ingame (castlewars)
+59- Same as 58, but text is positioned a little differently (castlewars)
+60- ticket exchange (castlewars)
+61- name your cat
+62- grey rocks 
+63- congratulations! you've defeated the champion! 
+64- (chatbox) 1 dialogue player
+65- (chatbox) 2 dialogue player
+66- (chatbox) 3 dialogue player
+67- (chatbox) 4 dialogue player
+68- (chatbox) 1 dialogue player no continue
+69- (chatbox) 2 dialogue player no continue
+70- (chatbox) 3 dialogue player no continue
+71- (chatbox) 4 dialogue player no continue
+72- (chatbox) churn cheese
+73- (chatbox) churn cheese/butter
+74- (chatbox) churn cheese/butter/cream
+75- (tab) (attack interface) axe
+76- (tab) (attack interface) granite maul
+77- (tab) (attack interface) bow
+78- (tab) (attack interface) claws
+79- (tab) (attack interface) crossbow
+80- (tab) (attack interface) ? (aim and fire / kick)
+81- (tab) (attack interface) sword
+82- (tab) (attack interface) 2h sword
+83- (tab) (attack interface) pic axe
+84- (tab) (attack interface) halberd
+85- (tab) (attack interface) staff (no magic)
+86- (tab) (attack interface) scythe
+87- (tab) (attack interface) spear
+88- (tab) (attack interface) mace
+89- (tab) (attack interface) dagger
+90- (tab) (attack interface) staff
+91- (tab) (attack interface) throwing knife/dart
+92- (tab) (attack interface) unarmed
+93- (tab) (attack interface) whip
+94- (chatbox) you sure you want to destroy this object? (messed up)
+95- sailing map of everywhere
+96- pitch black tint
+97- grey tint
+98- darker black tint
+99- harold/player gamble
+100- blue tint
+101- scroll with blood
+102- items kept on death
+103- what comes next chalkboard
+104- star chart viewer
+105- skull
+106- duel confirmation screen
+107- duel setup screen
+108- duel scoreboard
+109- blank?
+110- duel victory screen (spoils)
+111- 2 page, 22 line book
+112- main screen dialogue with man head in cirlce
+113- yellow outline, blueprints with gears
+114- (tab) 4 arrows, rotate button in center, schematic selection
+115- fade to black. used in cutscenes
+116- scroll with scrolling text
+117- static; old film (cutscene)
+118- smokey
+119- fade from tint to black (from interface 100?)
+120- blank?
+121- from black to tint (continue from 119)
+122- fade from normal to solid gray. waits 5 seconds, goes back to normal
+123- certificate of advanced healing
+124- list of fairy queen's symptoms
+125- amazing farming equipment store
+126- (tab) farming supplies
+127- remove this key (two arrows on either side)
+128- map with options to set junction on map points
+129- more complicated version of 128 ^^^
+130- even moar complicated version of 128, 129 ^^^
+131- npc 1 line chat (no name?)
+132- list of items for king roald's garden
+133- (tab) [A][B][C] 3 options
+134- choose the stat that you wish to advance (genie lamp, stat book)
+135- directions on a signpost (To the NORTH; To the SOUTH; etc...)
+136- dual chat, no click to continue
+137- the chatbox itself
+138- gnome glider map
+139- gnomeball score
+140- select an option
+141- gravedigger random event
+142- daggonoth gate
+143- blank slate of rock?
+144- points settings. looks like a map for mine carts?
+145- Recipe For Disaster 8 miniquests list
+146- spiral view
+147- turn tiles to make a picture of a bird (desert)
+148- select an option with an (X) at the side
+149- the invertory
+150- boat pauses for 5 seconds, then crashes into dwarf statue (map)
+151- blank?
+152- blank?
+153- Oh dear, you're dead beginner interface
+154- What would you like to make? - soft leather crafting
+155- looking through glass/mirror? (desert treasure cutscene, maybe)
+156- square paper; scrolls for 100 lines of text
+157- (chatbox) agility level up
+158- (chatbox) attack level up
+159- (chatbox) cooking level up
+160- (chatbox) crafting level up
+161- (chatbox) defence level up
+162- (chatbox) farming level up
+163- (chatbox) firemaking level up
+164- (chatbox) fishing level up
+165- (chatbox) fletching level up
+166- (chatbox) herblore level up
+167- (chatbox) heath level up
+168- (chatbox) magic level up
+169- (chatbox) mining level up
+170- (chatbox) prayer level up
+171- (chatbox) ranged level up
+172- (chatbox) runecrafting level up
+173- (chatbox) slayer level up
+174- (chatbox) smithing level up
+175- (chatbox) strength level up
+176- (chatbox) thieving level up
+177- (chatbox) woodcutting level up
+178- click arrows to move taper; press light to light all the candles
+179- green/blue/white tint
+180- flashes of light (1 flash, then 3 seconds, then 2 quick flashes; repeat)
+181- (tab) North, south, east, west, rotate mirror
+182- logout tab
+183- history of the goblin race first page
+184- Is this a... A- a lemming; B- a fryingpan; C- the disencranchaised youth of 1940's Columbia
+185- diamond/coins/ring unlock
+186- watcth the statue! fish here (X)
+187- hands and hand symbols on a scroll
+188- mime random event emote selection in chatbox
+189- lockpick random event
+190- Mystery box? Which shape is blue? Shape1; Shape2; Shape3;
+191- Odd One Out random event
+192- modern magic tab
+193- ancient magic tab
+194- mage training arena points Alchemy
+195- mage training arena points Enchantment
+196- mage training arena points Graveyard
+197- mage training arena points shop
+198- mage training arena points Telekinetic
+199- hairdesser's salon male (BEARD)
+200- Yrsa's Shoe Store (empty?)
+201- Thessailia's Makeovers (legs) women
+202- Thessailia's Makeovers (torso) women
+203- hairdresser's salon female
+204- hairdresser's salon male
+205- makeovermage (colour and gender)
+206- Thessailia's Makeovers (legs) men
+207- Thessailia's Makeovers (torso) men
+208- blank?
+209- complete the maze as fast as possible! There is 0% of the reward left (old man maze random)
+210- (chatbox) 1 line message
+211- (chatbox) 2 line message
+212- (chatbox) 3 line message
+213- (chatbox) 4 line message
+214- (chatbox) 5 line message
+215- (chatbox) 1 line message (no click to continue)
+216- (chatbox) 2 line message (no click to continue)
+217- (chatbox) 3 line message (no click to continue)
+218- (chatbox) 4 line message (no click to continue)
+219- (chatbox) 5 line message (no click to continue)
+220- Blank scroll
+221- grey paper or cloth
+222- Blank scroll (tad different from 220)
+223- penguin emotes (tab)
+224- Map of rellekka, miscellania, etcertia, waterbirth, netiznot, jastizo
+225- same as 221
+226- mud splatter (animated)
+227- list of needed items (scrolls for 50 lines of text)
+228- (chatbox) select 2 options
+229- (chatbox) select 2 options (same as 228?)
+230- (chatbox) select 3 options
+231- (chatbox) select 3 options (same as 230?)
+232- (chatbox) select 4 options
+233- (chatbox) select 4 options (same as 232?)
+234- (chatbox) select 5 options
+235- (chatbox) select 5 options (same as 234)
+236- (chatbox) select 2 options (same as 228, 229?)
+237- (chatbox) select 4 options (same as 232, 233?)
+238- (chatbox) select 5 options (same as 234, 235?)
+239- music tab
+240- (tab) molly random event crane operator 3 tries
+241- (chatbox) NPC chat 1 line
+242- (chatbox) NPC chat 2 line
+243- (chatbox) NPC chat 3 line
+244- (chatbox) NPC chat 4 line
+245- (chatbox) NPC chat 1 line (no click to continue)
+246- (chatbox) NPC chat 2 line (no click to continue)
+247- (chatbox) NPC chat 3 line (no click to continue)
+248- (chatbox) NPC chat 4 line (no click to continue)
+249- letter written in alt codes? different language.
+250- seems to be same letter as 249, but translated to english. (letter from surok mage)
+251- same letter, different words (instructions to beacon ring)
+252- 5 different shape locks
+253- Skull, with 4 levers to pull on and a confirm lever
+254- map, with a path leading to an X
+255- blank new sytle scroll
+256- Current team (barbarian assault)
+257- Shiny light/glare goes zooms into white, then fades to normal
+258- train carts go by fast (keldagrim?)
+259- achievement diary tab
+260- Cyrisus's Bank and a chest
+261- options tab
+262- attacth/detach pipes
+263- tinted screen with bold yellow "Score: 0" (pinpall random event)
+264- aim down, left, right, up. FIRE; looking through a crosshair of sorts
+265- party drop chest
+266- blank?
+267- Void Knights' Reward Options (pest control)
+268- pick a kitten
+269- character design
+270- beginners map
+271- prayer tab
+272- grave monument (tinderbox)
+273- pop the correct balloon animal (scaperune random)
+274- (tab) quest tab
+275- quest scroll; scrolls to show 175 lines of text
+276- quest complete (old)
+277- quest complete (new)
+278- ranging guild ticket exchange
+279- player's cat VS opponent's cat
+280- do you really want to bet X! YES/NO
+281- Two cat heads, two lines of text and two "10"s. Maybe names/points of each cat?
+282- play snake flute manual
+283- play snake flute sheet
+284- blank?
+285- combination lock door
+286- fractional still; hear meters and option to add coal; blast furnace?
+287- grid
+288- rune sodoku to open casket (hard)
+289- rune sodoku to open casket (easy)
+290- grinding gears
+291- (tab) 6 yellow boxes 
+292- three yellow boxes on gears
+293- strange design with	
+294- rum deal cat jumping on ball of yarn
+295- rum deal
+296- spnning yellow lights/sand clouds?
+297- sandwhich lady
+298- combination lock door (same sas 285?)
+299- sailing map (when sailing to karamja for example)
+300- blank?
+301- blank?
+302- blank certificate
+303- (chatbox) What would you like to make? (2)
+304- (chatbox) What would you like to make? (3)
+305- (chatbox) What would you like to make? (4)
+306- (chatbox) What would you like to make? (5)
+307- (chatbox) How many would you like to cook? (1)
+308- blank paper
+309- (chatbox) What would you like to make? (1)
+310- (tab) autocasting slayer staff
+311- (chatbox) What would you like to smelt?
+312- What would you like to make? (smithing interface)
+313- animated steam/smoke
+314- (chatbox) select an option (goes from left to right, might use models)
+315- Rage level
+316- blank?
+317- completely black
+318- scream like thing comes at you. from the same quest as the above interfaces.
+319- autocast modern magic
+320- skills tab
+321- map of a boat in a swamp (morytania?)
+322- same as 321, different boat
+323- Tai Bwo Wannai Parcel Service
+324- What hides would you like tanning?
+325- ranging guild target
+326- teleport other request
+327- warning - This areas is so gold that you will experience a slow drain of your stats while you remain within it. (desert treasure)
+328- *Temple Repair* repar state, resources, sanctity
+329- choose a route from temple to burgh de rott
+330- safe with 9 buttons
+331- torn up paper. 5 lines of text
+332- What would you like to enchant? (battlestaves)
+333- completely black
+334- Are you sure you want to make this trade? (trade screen2)
+335- trading with: (trade screen1)
+336- blank?
+337- clue scroll for falador saradomin statue
+338- clue scroll for 3 wilderness craters
+339- clue scroll near benches south of legends guild
+340- clue scroll On Miscellania just east of the castle. Fairy ring code CIP.
+341- clue scroll North of the Abandoned Mine, by the path to Mort'ton. 03.15N 31.03E
+342- clue scroll The Chaos Altar north of the Observatory, Stand and dig left next to the flags behind the altar.
+343- clue scroll Road between Rellekka and the Lighthouse.
+344- clue scroll On the road between Seers' Village and Rellekka. Fairy ring code CJR. just west of the fern. 12 degrees 31 minutes north 7 degrees, 3 minutes east
+345- clue scroll 9 lines of text
+346- clue scroll South-west of Varrock, near the mining spot with clay.
+347- clue scroll South-east of Varrock, near the mining spot. 6 degrees, 37 minutes north, 26 degrees, 31 minutes east.
+348- clue scroll South of Draynor Village bank, by the fishing spot.
+349- clue scroll East most Magic tree east of the Ranging Guild
+350- clue scroll Northeast of Varrock, at the Lumberyard.
+351- clue scroll North of Falador's walls, inside the enclosure with oddly marked stones.
+352- clue scroll On the peninsula west of the Crafting guild.
+353- clue scroll South of Yanille bank. Behind the house with an anvil, by the tree.
+354- clue scroll Brother Galahad's house. West of Seers' Village.
+355- clue scroll Inside McGrubor's wood,west of Seers' Village. Fairy ring code ALS.
+356- clue scroll Just south of the Wizard's tower, south of Draynor Village. near the fairy ring code DIS
+357- clue scroll In West Ardougne, inside one of the destroyed buildings
+358- clue scroll Near the Observatory, north of Castle Wars
+359- clue scroll In level 14 Wilderness, at the Dark Warriors' Fortress, pile of crates in the south-west corner of the central courtyard.
+360- clue scroll Just south of East Ardougne, north of the Tower of Life, near the Necromancer's tower. Dig three spaces east of the Mysterious statue, directly north-west of a tree. Fairy ring code DJP
+361- clue scroll Stacked behind the Clock tower building south of Ardougne Castle.
+362- clue scroll Just west of the chemist's house in Rimmington. South of Falador, west of Port Sarim.
+363- clue scroll puzzle
+364- clue scroll rewards
+365- operating the compass
+366- fishing trawler interface
+367- trawler catch
+368- how to play fishing trawler
+369- combination lock door (very, very similar to 285, 298)
+370- blank?
+371- tutorial island progress, with arrow saying to follow instructions below to advance
+372- (chatbox) blue title, 4 lines of text (no click to continue) (tutorial island chatbox?)
+373- current champion in fight pit
+374- (tab) select veiwing orb in fight pit
+375- (tab) unmorph
+376- looks like veiw of the stars/solar system?
+377- Tai Bwo Favour 0%
+378- Welcome screen
+379- skeleton with two skulls, "Time" and "XP Score"
+380- wilderness skull, with level.
+381- wilderness skull, with level (a little bit lower. correct one?)
+382- warning upon entering wilderness.
+383- Pick a colour (green, yellow, red, purple, blue)
+384- scroll 16 lines of text
+385- crack on the screen
+386- looking through a telescope?
+387- (tab) equipment tab
+388- (tab) autocast ancient magicks
+389- duel axe bottom right hand of the screen (duel arena)
+390- Option to show riddle, with boxes on a table.
+391- Managing miscellania
+392- resources collected
+393- Enter up to 5 letters in any order then click 'guess' again.
+394- furniture creation menu (construction)
+395- (chatbox) level up construction
+396- select a peice of furniture to build
+397- furniture creation menu (scrollable with categories)
+398- (tab) house options
+399- There's no place like home...
+400- creating tablets in a POH on a lectern
+401- PLAYER- SHOTS- SCORE-
+402- room creation menu
+403- what wood do you want converting to planks
+404- purple haze. looking through portal in POH
+405- blank?
+406- (tab) autocast void knight staff
+407- pest control boat
+408- pest control in game 
+409- choose a tool to use on each of the moving parts (dwarf cannon?)
+410- cataaault defence game key (warriors guild)
+411- (tab) catapault defence game tab (warriors guild)
+412- attack dummy game key (warriors guild)
+413- looking through keyhole?
+414- trouble brewing end interface
+415- trouble brewing ingame interface
+416- bridge, pipe, wooden planks
+417- interface for trouble brewing?
+418- players waiting for next game for trouble brewing
+419- sewing together hats and face pieces
+420- beehive random
+421- (chatbox) scrollable for 12 lines, first line is blue (uses old scrollbar lol)
+422- light black tint, flashes of red light (1 flash, then 3 seconds, then 2 quick flashes; repeat) (like 180)
+423- certificate of advanced healing, in bad condition (broken version of 123?)
+424- something written in different language of symbols on a board
+425- something written in different language of symbols on a blue cloth
+426- fairy ring combo chooser
+427- letter to fairy godfather?
+428- room 0 of 8; theiving level required: 0
+429- choose a character
+430- (tab) lunar magic tab
+431- map of pirates' cove and moonclan island; boat circles pirates cove
+432- enchant crossbow bolt
+433- (tab)crossbow bolt pouch
+434- gnome battas
+435- gnome bowls
+436- gnome cocktails
+437- gnome chrunchies
+438- silver casting
+439- map with an amulet with a scull and a star
+440- certificate of qualification level 1 (digsite)
+441- certificate of qualification level 2 (digsite)
+442- insert disk, accept/cancel exchange, change disk type
+443- boxes of different colours "raising the bar" lowest to highest amt of boxes
+444- certificate of qualification level 3 (digsite)
+445- insert disk, and an Okay button
+446- What would you like to make? (rings, necklaces, amulets, bracelets)
+447- 445, but the glass is opened.
+448- green/blue tint (clearer than 179)
+449- blank?
+450- from nothing, smoke gradually comes up then stays there.
+451- (chatbox) Select an Option (3)
+452- statue holding a key
+453- completely black
+454- map of a boat on a dock with crates past a wall
+455- picture of castles
+456- 455 but flipped horizaotally
+457- different picture of the same castles
+458- (chatbox) Select an Option (3)
+459- What would you like to spin? (spinning wheel)
+460- lime green tint with an (X) at the top
+461- map of witchhaven, fishing platform, and island
+462- 4 arrows, flip/rotate buttons, 3 buttons to select pieces(Very similar to 114)
+463- certificate with a red ribbon with yellow trim
+464- (tab) emote tab
+465- Equip your character... (equipment stats)
+466- thin scroll with a lever 
+467- interface with a blank title, and a scroll bar with empty boxes that all have options for "Ok"
+468- Diango item return
+469- map for grand tree, castle wars, entrana, crafting guild, talvery, and varrock (each have an option for "Ok"
+470- picture of grass, the sky and clouds
+471- (tab) Balloon controls
+472- scroll about hot air balloon
+473- chinchompa attack interface
+474- salamander attack interface
+475- same as 473
+476- same as 474 (different text)
+477- Custom fur clothing
+478- imp release negotiation form
+479- a really weird map?
+480- Ava's attractor building
+481- heavy snow
+482- lighter snow
+483- no snow, but tint as if it was snowing
+484- barbarian assault info
+485- barbarian assault in game (fighter)
+486- barbarian assault in game (collector)
+487- barbarian assault in game (defender)
+488- barbarian assault in game (healer)
+489- barbarian assault players in room
+490- barbarian assault viewing player stats
+491- barbarian assault reward shop
+492- barbarian assault team player 1 (accept/decline)
+493- barbarian assault team player 2 (accept/decline)
+494- barbarian assault time until next game (exit room to cancel)
+495- barbarian assault using eggs on the cannon (select enemy)
+496- barbarian assault instruction book
+497- barbarian assault wave complete
+498- bloody scroll from "Os" about contanting an agen inside menaphos
+499- attack skill info
+500- a badge with a dollar sign on it
+501- box with cannon parts
+502- box with supplies and swamp paste (similar to 501 but different items)
+503- clockwork toys book
+504- looking through planks? (planks on top and planks on bottom)
+505- map of netiznot/jastizo, waterbirth, miscellania/etceteria, rellekka, and keldagrim entrance
+506- (tab) jester controls
+507- same as 393 but with added symbols
+508- The mind of Homunculus! The world of magic/The world of logic
+509- repairing pipes inside tower of life? or some other tower idk
+510- using levers on pipes
+511- moar pipes
+512- blank?
+513- blank?
+514- a cat playing with a ball
+515- green tint
+516- comepletely black
+517- blank?
+518- follower inv; npc spaces left
+519- click here to continue
+520- Cyrisus' Courage
+521- Guidance System 
+522- (tab) Monster Info from lunar spell
+523- (tab) Player Stats info from lunar spell
+524- Green/blue tinted rectange with large fancy blue text, then small fancy blue text
+525- Half torn scroll
+526- Full scroll. Message was "this is an interface type test"
+527- wood or paper? covers screen
+528- black screen with centered text, display number 3 in bottom left, and (X) in top right
+529- right half og 525
+530- Grey book; both pages have individual scroll bars
+531- V.T.A.M. gold plaque
+532- Museum Kudos
+533- Same as 528, without center text
+534- same as 528
+535- Piano
+536- Shrink-Me-Quick recipe
+537- music key chart
+538- Things to do list
+539- blank?
+540- Elnock's Exchange for implings
+541- Implings and amounts
+542- What would you like to make? (glassblowing)
+543- storm cloud rolling in
+544- boat going to crandor
+545- elvarg flying across the screen
+546- elvarg flying in left then hovering
+547- map of crandor, karamja, and crafting guild
+548- CRASHES CLIENT
+549- welcome screen with black background
+550- (tab) friends list tab
+551- (tab) ignore list tab
+552- looking through telescope at stars
+553- report abuse 
+554- (chatbox) horizontal select an option (4?)
+555- (chatbox) horizontal select an option (5?)
+556- (chatbox) horizontal select an option (6?)
+557- (chatbox) Select an Option (2)
+558- (chatbox) What would you like to make? (2?)
+559- chalkboard for that classroom random. "Text for testing, remove at will"
+560- Warning; Low level players beware. Goblins have taken over and there are poisonous spiders! Proceed/stay out
+561- Warning; Kalphite queen
+562- Warning; Dark area, don't extinguish your light source.
+563- Warning; Entering building mode destroies ground items
+564- Warning; Archers on top of tower who will shoot without mercy (ranging guild?)
+565- Warning; Entering desert.
+566- Warning; do you need to collect dropped items? Or leave.
+567- Warning; Very dark, you sure you want to go in with no light source?
+568- Warning; same as 562
+569- Warning; same as 567
+570- Warning; cave is very dark and you don't have light. I'm NOT scared of the dark/I AM scared of the dark
+571- Warning; tunnel is very dark. Yes I am sure/No, I an not properly equipped.
+572- Warning; If your light source goes out down there you'll be in trouble! Go down without a tinderbox? not scared/scared
+573- Warning; You can run past, but keep in mind a dangerous area follows! I'm not scared/I think I'll stay here
+574- Warning; This area is very dangerous, are you sure you want to continue? I don't mind dying/I have too much stuff.
+575- Warning; King Black Dragon
+576- Warning; This way leads to the wilderness and is only one way! You sure you want to go down? I'm fearless/That's not sensible
+577- Warning; same as 571
+578- Warning; Fairy ring code leads to a dark area. You sure you want to go with no light source?
+579- Warning; Are you sure you want to climb down? Yes, I know it's dangerous/No I don't want to die
+580- Warning; Mort Myre is a ghast infested swamp
+581- Warning; Death plateau is not named that as a joke!
+582- (chatbox) How many would you like to make? 1/5/10 sets (1)
+583- Reset Warning Messages
+584- King statue breaks free
+585- knights help a wizard escape from a window
+586- Change of address form for the citizens of Seers' Village
+587- Meet me at camel- torn paper left half
+588- Picking a lock
+589- (tab) Clan Chat tab
+590- Clan Chat Setup
+591- Thessailia's Makeovers male (NEW)
+592- Hairdresser's Salon (no beard) (NEW)
+593- Reinald's Smithing Emporium (wristgaurds)
+594- Thessailia's Makeovers female (NEW)
+595- Reinald's Smithing Emporium female? or repeat of 593 (wristgaurds)
+596- Hairdresser's Salon (with beard) (NEW)
+597- Godwars killcount with light tint
+598- ^^^ darker tint
+599- same as 597
+600- same as 576
+601- Godwars killcount with no tint
+602- blank?
+603- hand holding a pulsing ball?
+604- 3 flags on a map (3 kingdoms, misthalin, asgarnia, kandarin?)
+605- slowly zoom in through a safe?
+606- 603, but faster, until the ball's right flap opens up
+607- puting up posters
+608- a tree with a face spinning slowly
+609- taking down the left poster from 607
+610- black slides in from the left
+611- two posters from 607 with no background
+612- same as 611
+613- insert coin and operate
+614- two posters from 607 again
+615- zoom in on gnome king 
+616- same as 604
+617- bolries diary
+618- only the right postrer from 607
+619- pay bank charge with... displays different runes
+620- Lowe's Archery Emporium (shop)
+621- blank?
+---ENDS HERE---
+~ By Jackasaur of rune-server.org ~
