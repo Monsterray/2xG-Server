@@ -94,7 +94,7 @@ public class GameEngine extends Server {
 	/**
 	 * Method that is called when the server is stoped.
 	 */
-	public static void stop(){
+	public void stop(){
 		if(Config.DEBUG)
 			System.out.println("Stop Method");
 		for(Player p : PlayerHandler.players) {

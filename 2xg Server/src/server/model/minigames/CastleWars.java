@@ -78,7 +78,7 @@ public class CastleWars {
         } else if (gameStarted == true) {
             player.sendMessage("There's already a Castle Wars going. Please wait a few minutes before trying again.");
             return;
-        } else if (player.playerEquipment[Client.playerHat] > 0 || player.playerEquipment[Client.playerCape] > 0) {
+        } else if (player.playerEquipment[player.playerHat] > 0 || player.playerEquipment[player.playerCape] > 0) {
             player.sendMessage("You may not wear capes or helmets inside of castle wars.");
             return;
         }
@@ -176,8 +176,8 @@ public class CastleWars {
         }
         changeFlagObject(objectId, objectTeam);
         player.getPA().createPlayerHints(10, -1);
-        player.playerEquipment[Client.playerWeapon] = -1;
-        player.playerEquipmentN[Client.playerWeapon] = 0;
+        player.playerEquipment[player.playerWeapon] = -1;
+        player.playerEquipmentN[player.playerWeapon] = 0;
         player.getItems().updateSlot(3);
         player.appearanceUpdateRequired = true;
         player.updateRequired = true;
@@ -190,7 +190,7 @@ public class CastleWars {
      * @param team
      */
     public static void captureFlag(Client player) {
-        if (player.playerEquipment[Client.playerWeapon] > 0) {
+        if (player.playerEquipment[player.playerWeapon] > 0) {
             player.sendMessage("Please remove your weapon before attempting to get the flag again!");
             return;
         }
@@ -215,9 +215,9 @@ public class CastleWars {
      * @param flagId the banner id.
      */
     public static void addFlag(Client player, int flagId) {
-        player.playerEquipment[Client.playerWeapon] = flagId;
-        player.playerEquipmentN[Client.playerWeapon] = 1;
-        player.getItems().updateSlot(Client.playerWeapon);
+        player.playerEquipment[player.playerWeapon] = flagId;
+        player.playerEquipmentN[player.playerWeapon] = 1;
+        player.getItems().updateSlot(player.playerWeapon);
         player.appearanceUpdateRequired = true;
         player.updateRequired = true;
     }
@@ -241,9 +241,9 @@ public class CastleWars {
 				createFlagHintIcon(player.getX(), player.getY());
 				break;
 		}
-		player.playerEquipment[Client.playerWeapon] = -1;
-		player.playerEquipmentN[Client.playerWeapon] = 0;
-		player.getItems().updateSlot(Client.playerWeapon);
+		player.playerEquipment[player.playerWeapon] = -1;
+		player.playerEquipmentN[player.playerWeapon] = 0;
+		player.getItems().updateSlot(player.playerWeapon);
 		player.appearanceUpdateRequired = true;
 		player.updateRequired = true;
                                            createHintIcon(player, (gameRoom.get(player) == 1) ? 2 : 1);
@@ -264,7 +264,7 @@ public class CastleWars {
     public static void pickupFlag(Client player) {
         switch (player.objectId) {
             case 4900: //sara
-				if (player.playerEquipment[Client.playerWeapon] > 0) {
+				if (player.playerEquipment[player.playerWeapon] > 0) {
 					player.sendMessage("Please remove your weapon before attempting to get the flag again!");
 					return;
 				}
@@ -276,7 +276,7 @@ public class CastleWars {
                 addFlag(player, 4037);
                 break;
             case 4901: //zammy
-				if (player.playerEquipment[Client.playerWeapon] > 0) {
+				if (player.playerEquipment[player.playerWeapon] > 0) {
 					player.sendMessage("Please remove your weapon before attempting to get the flag again!");
 					return;
 				}
@@ -555,9 +555,9 @@ public class CastleWars {
      * @param capeId the capeId
      */
     public static void addCapes(Client player, int capeId) {
-        player.playerEquipment[Client.playerCape] = capeId;
-        player.playerEquipmentN[Client.playerCape] = 1;
-        player.getItems().updateSlot(Client.playerCape);
+        player.playerEquipment[player.playerCape] = capeId;
+        player.playerEquipmentN[player.playerCape] = 1;
+        player.getItems().updateSlot(player.playerCape);
         player.appearanceUpdateRequired = true;
         player.updateRequired = true;
     }
@@ -572,7 +572,7 @@ public class CastleWars {
             case 4039:
 				player.playerEquipment[3] = -1;
 				player.playerEquipmentN[3] = 0;	 
-				player.getItems().updateSlot(Client.playerWeapon);
+				player.getItems().updateSlot(player.playerWeapon);
 				player.appearanceUpdateRequired = true;
 				player.updateRequired = true;
                 System.out.println(player.playerName + "] removed weapon:" + player.playerEquipment[3]);
@@ -583,7 +583,7 @@ public class CastleWars {
             case 4041:
 				player.playerEquipment[1] = -1;
 				player.playerEquipmentN[1] = 0;	 
-				player.getItems().updateSlot(Client.playerCape);
+				player.getItems().updateSlot(player.playerCape);
 				player.appearanceUpdateRequired = true;
 				player.updateRequired = true;
                 System.out.println(player.playerName + "] removed cape:" + player.playerEquipment[1]);

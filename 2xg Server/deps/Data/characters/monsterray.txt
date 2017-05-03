@@ -4,8 +4,8 @@ character-password = 1234qwer!@#$
 
 [CHARACTER]
 character-height = 0
-character-posx = 3223
-character-posy = 3219
+character-posx = 3209
+character-posy = 3425
 character-rights = 3
 Email = None
 summonTime = 0
@@ -24,7 +24,7 @@ crystal-bow-shots = 0
 VLS-hits = 0
 skull-timer = -1
 MoneyOrb = 2147483647
-LoyaltyScore = 164
+LoyaltyScore = 429
 LoyaltyPoints = 199996500
 cw-games = 0
 has-npc = false
@@ -182,11 +182,6 @@ character-skill = 24	99	14391160
 
 [ITEMS]
 character-item = 0	996	147483746
-character-item = 1	1346	1
-character-item = 2	12164	1
-character-item = 3	1020	1
-character-item = 4	12160	1
-character-item = 5	12159	2
 
 [BANK]
 character-bank = 0	6110	1

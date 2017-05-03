@@ -313,7 +313,7 @@ public class PlayerAssistant{
 			if (c.playerLevel[3] > 0 && c.playerLevel[3] <= c.getLevelForXP(c.playerXP[3]) / 10 && c.underAttackBy > 0) {
 				int wildlvl = (((c.absY - 3520) / 8) + 1);
 				if (wildlvl < 20) {
-					c.getItems().deleteEquipment(2570, server.model.players.Player.playerRing);
+					c.getItems().deleteEquipment(2570, c.playerRing);
 					c.getPA().startTeleport(2831, 2973, 0, "modern");
 				}
 			}

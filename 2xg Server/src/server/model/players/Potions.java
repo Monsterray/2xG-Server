@@ -714,7 +714,7 @@ public class Potions {
 			c.playerItems[slot] = replaceItem + 1;
 			c.getItems().resetItems(3214);
 			int[] toDecrease = {0,2,4,6};
-			int[] toIncrease = {1,3};
+//			int[] toIncrease = {1,3};
 			for (int tD : toDecrease) {
 				c.playerLevel[tD] -= getBrewStat(tD, .10);
 				if (c.playerLevel[tD] < 0)

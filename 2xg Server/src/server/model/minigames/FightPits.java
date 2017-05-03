@@ -15,9 +15,9 @@ public class FightPits {
 	private int GAME_TIMER = 140;
 	private int GAME_START_TIMER = 120;
 	
-	private int gameTime = -1;
+//	private int gameTime = -1;
 	private int gameStartTimer = 120;
-	private int properTimer = 0;
+//	private int properTimer = 0;
 	public int playersRemaining = 0;
 	public boolean gameOn = false;
 	

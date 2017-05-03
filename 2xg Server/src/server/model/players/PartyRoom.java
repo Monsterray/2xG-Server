@@ -31,7 +31,7 @@ public class PartyRoom {
 		if (System.currentTimeMillis() - lastAnnouncment > (1000 * 60 * announcmentFrequency)) {
 			dropAll();
 			lastAnnouncment = System.currentTimeMillis();
-		c.sendMessage("Count Down starts at "+ lastAnnouncment +".");
+			c.sendMessage("Count Down starts at "+ lastAnnouncment +".");
 		}
 	}
 	
@@ -45,8 +45,8 @@ public class PartyRoom {
 			if(roomItemsN[x] > 0){
 				Balloon b = null;
 				do{
-				b = Balloon.getBalloon(roomItems[x], roomItemsN[x]);
-				trys++;
+					b = Balloon.getBalloon(roomItems[x], roomItemsN[x]);
+					trys++;
 				} while(coords.contains(b.getCoords()) && trys < 100);
 				Server.objectHandler.addObject(b);
 				Server.objectHandler.placeObject(b);
@@ -61,13 +61,13 @@ public class PartyRoom {
 		for(int x = 0; x < amount*2; x++){
 			Objects o;
 			do{
-			o = Balloon.getEmpty();
+				o = Balloon.getEmpty();
 			} while(coords.contains(new Point(o.objectX, o.objectY)) && trys < 100);
 			if(trys > 100){
 				break;
 			}
-				Server.objectHandler.addObject(o);
-					Server.objectHandler.placeObject(o);
+			Server.objectHandler.addObject(o);
+			Server.objectHandler.placeObject(o);
 		}
 		coords.clear();
 	}
@@ -86,10 +86,10 @@ public class PartyRoom {
 
 	public static void open(Client c){
 		updateGlobal(c);
-			updateDeposit(c);
-				c.getItems().resetItems(5064);
-			c.getPA().sendFrame248(2156, 5063);
-		}
+		updateDeposit(c);
+		c.getItems().resetItems(5064);
+		c.getPA().sendFrame248(2156, 5063);
+	}
 
 	public static void accept(Client c){
 		for(int x = 0; x < c.party.length; x++){
@@ -189,19 +189,21 @@ public class PartyRoom {
 	public static void updateDeposit(Client c) {
 		c.getItems().resetItems(5064);
        		for(int x = 0; x < 8; x++){
-			if(c.partyN[x] <= 0)
+			if(c.partyN[x] <= 0){
 				itemOnInterface(c, 2274, x, -1, 0);
-			else
+			}else{
 				itemOnInterface(c, 2274, x, c.party[x], c.partyN[x]);
+			}
 		}
 	}
 
 	public static void updateGlobal(Client c) {
        		for(int x = 0; x < roomItems.length; x++){
-			if(roomItemsN[x] <= 0)
+			if(roomItemsN[x] <= 0){
 				itemOnInterface(c, 2273, x, -1, 0);
-			else
+			}else{
 				itemOnInterface(c, 2273, x, roomItems[x], roomItemsN[x]);
+			}
 		}
 	}
 

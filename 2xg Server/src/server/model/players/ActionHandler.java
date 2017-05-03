@@ -18,9 +18,9 @@ import server.util.ScriptManager;
 
 public class ActionHandler {
 	private Client c;
-	int[] donatorItem = { 12435, 4151, 15441, 15442, 15443, 15444, 15241, 4753, 4755, 4757, 4759, 14595, 14603, 14602, 14605, 11235, 19308, 19311, 19314, 19317, 19320, 962 };
-	int[] PvpItems = { 14876, 14877, 14878, 14879, 14880, 14881, 14882, 14883, 14884, 14885, 14886, 14888, 14889, 14890, 14891, 14892 };
-	int[] PvpPrices = { 10000000, 1000000, 500000, 35000, 800000,150000, 280000, 840000, 150000, 125000, 80000, 5000000, 240000, 108700, 200000, 284000 };
+	private int[] donatorItem = { 12435, 4151, 15441, 15442, 15443, 15444, 15241, 4753, 4755, 4757, 4759, 14595, 14603, 14602, 14605, 11235, 19308, 19311, 19314, 19317, 19320, 962 };
+	private int[] PvpItems = { 14876, 14877, 14878, 14879, 14880, 14881, 14882, 14883, 14884, 14885, 14886, 14888, 14889, 14890, 14891, 14892 };
+	private int[] PvpPrices = { 10000000, 1000000, 500000, 35000, 800000,150000, 280000, 840000, 150000, 125000, 80000, 5000000, 240000, 108700, 200000, 284000 };
 	
 	public void store(int i, int npcType){
 		switch(npcType) {
@@ -34,7 +34,7 @@ public class ActionHandler {
 	}
 	
 	public int donatorItem() {
-			return donatorItem[(int) (Math.random() * donatorItem.length)];
+		return donatorItem[(int) (Math.random() * donatorItem.length)];
 	}
 	
 	public ActionHandler(Client Client) {

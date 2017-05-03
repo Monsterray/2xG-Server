@@ -5,10 +5,10 @@ import server.util.Misc;
 
 public class Gambling {
 
-	private static Client c;
+//	private static Client c;
 	
 	public Gambling(Client c) {
-		this.c = c;	
+//		this.c = c;	
 	}
 
 	public static void playGame(final Client c) {

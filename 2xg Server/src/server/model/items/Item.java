@@ -267,24 +267,24 @@ public class Item {
 			while ((c = dataIn.read()) != -1) {
 				if (c == 0) {
 					itemStackable[counter] = false;
-itemStackable[counter] = false;
+					itemStackable[counter] = false;
 					itemStackable[13883] = true; //morrigan throwing axe
 					itemStackable[13879] = true; //morrigan javelin
-itemStackable[13957] = true; //morrigan javelin
-itemStackable[18016] = true;
-itemStackable[12158] = true;
-itemStackable[12159] = true;
-itemStackable[12160] = true;
-itemStackable[12163] = true;
-itemStackable[12155] = true;
-itemStackable[15243] = true;
+					itemStackable[13957] = true; //morrigan javelin
+					itemStackable[18016] = true;
+					itemStackable[12158] = true;
+					itemStackable[12159] = true;
+					itemStackable[12160] = true;
+					itemStackable[12163] = true;
+					itemStackable[12155] = true;
+					itemStackable[15243] = true;
 
 				} else {
 					itemStackable[counter] = true;
 				}
 				counter++;
 			}
-int[] stackableItems = {15243};
+//			int[] stackableItems = {15243};
 			dataIn.close();
 		} catch (IOException e) {
 			System.out.println("Critical error while loading stackabledata! Trace:");
